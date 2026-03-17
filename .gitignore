@@ -1,0 +1,5 @@
+# Ignorar arquivos PDF e Word (para não subir dados sensíveis)
+*.pdf
+*.docx
+meus_documentos/
+__pycache__/
